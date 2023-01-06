@@ -3,6 +3,7 @@
 - `p_user_info_ins`
 - `p_user_info_upd`
 - `p_user_info_del`
+- `p_user_info_sel`
 2. 방생성
 - `p_room_info_ins`
 - `p_room_info_upd` 
